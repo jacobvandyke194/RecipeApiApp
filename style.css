@@ -1,0 +1,25 @@
+
+.card {
+    margin-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    width: 50%;
+}
+
+.input-group {
+    margin: 10px;
+    width: 50%;
+}
+
+.form-control {
+    padding-right: 100px;
+    border-right: 100px;
+}
+
+img {
+    width: 150px;
+}
+
+#container {
+    display: block;
+}
